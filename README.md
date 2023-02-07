@@ -1,6 +1,6 @@
 # Blackjack Game
 
-This is a beginner interactive Blackjack game. A singler player can play against the dealer and see their results below their cards. There is the potential to tie, win, or lose the game. Not all features are available yet, such as betting or multi-player functionality. 
+This is a beginner interactive Blackjack game. A singler player can play against the dealer and see their results below their cards. There is the potential to tie, win, or lose the game. Not all features are available yet, such as betting or multi-player functionality. This game was written in JS, CSS, and HTML. 
 
 To run this game do the following: 
 1) Find a folder on your computer where you would like the game to reside, right click and select 'Git Bash Here'.
