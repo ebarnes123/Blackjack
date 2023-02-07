@@ -4,11 +4,10 @@ This is a beginner interactive Blackjack game. A singler player can play against
 
 To run this game do the following: 
 1) Find a folder on your computer where you would like the game to reside, right click and select 'Git Bash Here'.
-2) Open Git Bash and type the following then hit enter: (*) 
+2) (*) Open Git Bash and type the following then hit enter:
 git clone https://github.com/ebarnes123/Blackjack-.git
-3) In Git Bash type the following then hit enter: (*)
+3) (*) In Git Bash type the following then hit enter, this will open VS Code:
 code .
-This will open up VS Code. 
 4) Select File -> Open Folder -> Blackjack- 
 5) If the plugin is not installed yet, install via the Extensions option on the right toolbar, the LiveServer plugin.
 6) Go to the lower right-hand corner and select 'Go Live.' 
