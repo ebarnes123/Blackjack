@@ -12,7 +12,7 @@ code .
 5) If the plugin is not installed yet, install via the Extensions option on the right toolbar, the LiveServer plugin.
 6) Go to the lower right-hand corner and select 'Go Live.' 
 7) This will spin up your game server in your default brower. 
-8) Play away! Just remember there is nothing to win or lose. If new to Blackjack, see the rules below the cards for guidance. 
+8) Play away! Just remember there is nothing to win or lose. If new to Blackjack, see the rules below the cards for guidance. (To play multiple times, simply refresh the browser once you have won, lost, or tied.) 
 
 (*) Download links for these programs: 
 Git bash, find your specific operating system: https://git-scm.com/download/win
