@@ -8,7 +8,7 @@ To run this game do the following:
 git clone https://github.com/ebarnes123/Blackjack.git
 3) (*) In Git Bash type the following then hit enter, this will open VS Code:
 code .
-4) Select File -> Open Folder -> Blackjack- 
+4) Select File -> Open Folder -> Blackjack
 5) If the plugin is not installed yet, install via the Extensions option on the right toolbar, the LiveServer plugin.
 6) Go to the lower right-hand corner and select 'Go Live.' 
 7) This will spin up your game server in your default brower. 
